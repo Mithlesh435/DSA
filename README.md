@@ -1,5 +1,5 @@
 # DSA
-Data Structures and algorithms
+
 
 C Cheat Sheet :)
 
