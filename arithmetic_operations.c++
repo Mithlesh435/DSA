@@ -10,7 +10,6 @@ int main() //main function
     cin>>num1>>num2;
 
     //Arithmetic operations
-
     //Addition
     int sum = num1 + num2;
     cout<<"Sum of "<<num1<<" + "<<num2<<" = "<<sum<<endl;
