@@ -1,8 +1,8 @@
-#include <iostream>
+#include <iostream> 
 
 using namespace std;
 
-int main()
+int main() //main function
 {
     int num1, num2;
     cout<<endl<<"Note : First value should be greater than secound!"<<endl<<endl;
