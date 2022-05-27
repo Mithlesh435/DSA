@@ -1,6 +1,6 @@
 #include <iostream> //include input/output stream
 using namespace std;
-int main()
+int main() //main function
 {
     int age;
     cout<<"Please enter your age: ";
