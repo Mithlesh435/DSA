@@ -2,7 +2,7 @@
 using namespace std;
 int main() //main function
 {
-    int age;
+    int age; //integer variable to store age
     cout<<"Please enter your age: ";
     cin>>age;
     if(age>18)
