@@ -2,6 +2,7 @@
 using namespace std;
 int mian()
 {
+  int num;
   cout<<"Enter any name between 1 - 5 : ";
   cin>>num;
   switch(num){
