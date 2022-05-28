@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int mian()
+int main()
 {
   int num;
   cout<<"Enter any name between 1 - 5 : ";
