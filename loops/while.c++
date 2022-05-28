@@ -7,7 +7,7 @@ int main()
     cout<<"Enter any number: ";
     cin>>num;
     cout<<"Table of "<<num<<endl;
-    while( i < 10 )
+    while( i <= 10 )
     {
         cout<<num<<" * "<<i<<" = "<<num*i<<endl;
         i++;
